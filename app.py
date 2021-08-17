@@ -44,6 +44,8 @@ def mask_image():
                                  (104.0, 177.0, 123.0))
 
     # pass the blob through the network and obtain the face detections
+	
+	 ##Compute the CNN out with the provided image
     print("[INFO] computing face detections...")
     net.setInput(blob)
     detections = net.forward()
