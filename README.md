@@ -1,4 +1,4 @@
-# Human-Deteciton
+# Human-Detection
 Created in Python using OpenCv, TensorFlow and Keras
 The global pandemic of COVID-19 has severely impacted the world .
          A)Wearing face masks and 
